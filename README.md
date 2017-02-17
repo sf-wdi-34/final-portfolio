@@ -1,12 +1,14 @@
+
+<img src="https://cloud.githubusercontent.com/assets/6520345/23081189/8962462e-f508-11e6-88f1-4a3fa2ddca99.png" alt="cog" style="width: 50px;"/>
 # Portfolio
 
-You're going to need a portfolio site to showcase the amazing projects you've built in WDI. Over this weekend, build a new portfolio site or update your current portfolio site.  The technologies you use are up to you.
+You're going to need a portfolio site to showcase the impressive projects you've built in WDI. Over this weekend, build a new portfolio site or update your current portfolio site.  The technologies you use are up to you. Add pieces that will highlight you as an individual and also show your coolest tricks.
 
 Make sure your site is hosted and live on the web.  If you need a back-end, you can host on Heroku.  If you have a static site, though, you can host with a service like github pages. If you'd like to buy a custom domain, [here are some instructions for connecting that custom domain to your deployed application](https://github.com/sf-wdi-34/schedule/blob/master/how-to/add-custom-domain.md).
 
 ## Requirements
 
-  1. Create GitHub repo for your portfolio, and create a portfolio website.
+  1. Create GitHub repo for your portfolio, and create a portfolio website. (You may have already done this, but you also might want to start over)
 
   2. Include a list of your projects.  Each project description can include things like:
     - screenshot or project logo
