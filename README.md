@@ -1,5 +1,5 @@
 
-<img src="https://cloud.githubusercontent.com/assets/6520345/23081189/8962462e-f508-11e6-88f1-4a3fa2ddca99.png" alt="cog" style="width: 50px;"/>
+<img src="https://cloud.githubusercontent.com/assets/6520345/23081189/8962462e-f508-11e6-88f1-4a3fa2ddca99.png" alt="cog" width= "50px"/>
 # Portfolio
 
 You're going to need a portfolio site to showcase the impressive projects you've built in WDI. Over this weekend, build a new portfolio site or update your current portfolio site.  The technologies you use are up to you. Add pieces that will highlight you as an individual and also show your coolest tricks.
